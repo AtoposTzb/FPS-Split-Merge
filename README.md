@@ -9,15 +9,14 @@
 
 夸克网盘：“链接：https://pan.quark.cn/s/9d458f542b71 提取码：Bdsc ”
 
-其中之一：![image-20250822190337973](C:\Users\Yolo_T\AppData\Roaming\Typora\typora-user-images\image-20250822190337973.png)
+其中之一：
+![image](images/1.png)
 
-![image-20250822190623865](C:\Users\Yolo_T\AppData\Roaming\Typora\typora-user-images\image-20250822190623865.png)
-
-
+![image](images/2.png)
 
 ## 该软件界面如下：
 
-![image-20250822184332567](C:\Users\Yolo_T\AppData\Roaming\Typora\typora-user-images\image-20250822184332567.png)
+![image](images/3.png)
 
 # 使用如下：
 
@@ -25,19 +24,19 @@
 
 选择xml题目所在的文件夹：
 
-![image-20250822184530026](C:\Users\Yolo_T\AppData\Roaming\Typora\typora-user-images\image-20250822184530026.png)
+![image](images/4.png)
 
-![image-20250822184728984](C:\Users\Yolo_T\AppData\Roaming\Typora\typora-user-images\image-20250822184728984.png)
+![image](images/5.png)
 
 # 合并完成
 
-![image-20250822184855530](C:\Users\Yolo_T\AppData\Roaming\Typora\typora-user-images\image-20250822184855530.png)
+![image](images/6.png)
 
 ## 2.分割
 
 以刚刚合并的xml文件为例子：
 
-![image-20250822185322278](C:\Users\Yolo_T\AppData\Roaming\Typora\typora-user-images\image-20250822185322278.png)
+![image](images/7.png)
 
-![image-20250822185357444](C:\Users\Yolo_T\AppData\Roaming\Typora\typora-user-images\image-20250822185357444.png)
+![image](images/8.png)
 
